@@ -1,2 +1,3 @@
-//add new File
-const master = three
+// branchB.js
+const branchB = "This is from branch B";
+console.log(branchB);
