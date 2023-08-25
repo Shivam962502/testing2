@@ -12,7 +12,7 @@ const cartItems = [
     { name: 'Item 2', price: 20, quantity: 3 }, // Quantity added
     // ... more items
 ];
-
+console.log("HIII WOrld")
 console.log('Total:', calculateTotal(cartItems));
 
 // hello bite
