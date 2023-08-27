@@ -4,7 +4,7 @@ function calculateTotal(items) {
     for (const item of items) {
         total += item.quantity * item.price; // Updated calculation
     }
-    return total number of total
+    return total 
 }
 
 const cartItems = [
